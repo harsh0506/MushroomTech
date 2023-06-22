@@ -35,6 +35,23 @@
     <li>Containerizing the application using Docker for easy deployment and scalability.</li>
   </ul>
   
+  <h3>Exploratory Data Analysis (EDA)</h3>
+  <ul>
+    <li>Load and explore the dataset.</li>
+    <li>Perform chi-square test to identify associations between categorical variables.</li>
+    <li>Create visualizations to understand feature relationships.</li>
+  </ul>
+  
+  <h3>Machine Learning (ML)</h3>
+  <ul>
+    <li>Split data into training, testing, and validation sets.</li>
+    <li>Train and evaluate multiple ML algorithms (Random Forest, Logistic Regression, SVM).</li>
+    <li>Select the best-performing model (Random Forest).</li>
+    <li>Save the trained model for deployment.</li>
+    <li>Create an API using Flask for predictions.</li>
+    <li>Develop a user-friendly React frontend for mushroom information and identification.</li>
+  </ul>
+  
   <h2>Getting Started</h2>
   <p>To get started with MushroomSense, follow these steps:</p>
   <ol>
