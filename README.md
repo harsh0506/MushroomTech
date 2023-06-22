@@ -128,7 +128,7 @@ Thank you for your support and contribution!
     <pre>
 import requests
 
-url = 'http://your-api-url.com/predict'
+url = 'https://mushroomclass.onrender.com/predict'
 
 data = {
     "odor": 2,
