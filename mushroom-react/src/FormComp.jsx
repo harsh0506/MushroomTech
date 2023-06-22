@@ -27,8 +27,9 @@ function FormComp() {
                 "stalk-surface-below-ring": stalkSurfaceBelowRing,
                 "ring-type": ringType
             }
+            
 
-            const info = await fetch('https://mushroomclassification.onrender.com/predict', {
+            const info = await fetch('https://mushroomclass.onrender.com/predict', {
                 method: 'POST',
                 body: JSON.stringify(m),
                 headers: {
