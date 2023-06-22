@@ -91,7 +91,18 @@
   
   <h2>Unleash the Fungi Fun!</h2>
   <p>Immerse yourself in the enchanting world of mushrooms with MushroomSense. Discover, grow, and savor the magic of mushrooms like never before. Unleash your curiosity and embark on a journey of culinary exploration and natural wonders.</p>
-  
+  ## Website URL
+The MushroomSense application is live and can be accessed at: [(https://harshmushroomwebsite.netlify.app/)](https://harshmushroomwebsite.netlify.app/))
+
+## Feedback Requested
+We would appreciate your valuable feedback on the following aspects of MushroomSense:
+- User Interface (UI) design: Any suggestions for improving the overall look and feel of the application.
+- Bug reports: If you encounter any issues or unexpected behavior while using the application.
+- Performance optimization: Recommendations for enhancing the speed and responsiveness of the application.
+
+Please feel free to explore the site and provide your feedback. Your insights will greatly help us in refining and enhancing the MushroomSense experience.
+
+Thank you for your support and contribution!
   
   <h2>Getting Started</h2>
   <p>To get started with MushroomSense, follow these steps:</p>
