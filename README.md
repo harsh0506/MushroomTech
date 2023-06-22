@@ -103,6 +103,66 @@ We would appreciate your valuable feedback on the following aspects of MushroomS
 Please feel free to explore the site and provide your feedback. Your insights will greatly help us in refining and enhancing the MushroomSense experience.
 
 Thank you for your support and contribution!
+
+<h2>API Documentation</h2>
+    
+    <h2>Endpoint: /predict</h2>
+    <p>
+        <strong>Method:</strong> POST<br>
+        <strong>Description:</strong> Predicts the classification of mushrooms based on the provided features.
+    </p>
+    
+    <h3>Request Body</h3>
+    <pre>
+{
+    "odor": 2,
+    "spore-print-color": 3,
+    "gill-color": 1,
+    "stalk-surface-above-ring": 2,
+    "stalk-surface-below-ring": 3,
+    "ring-type": 2
+}
+    </pre>
+    
+    <h3>Example Usage</h3>
+    <pre>
+import requests
+
+url = 'http://your-api-url.com/predict'
+
+data = {
+    "odor": 2,
+    "spore-print-color": 3,
+    "gill-color": 1,
+    "stalk-surface-above-ring": 2,
+    "stalk-surface-below-ring": 3,
+    "ring-type": 2
+}
+
+response = requests.post(url, json=data)
+
+if response.status_code == 200:
+    predictions = response.json()
+    print(predictions)
+else:
+    print('Error:', response.status_code)
+    </pre>
+    
+    <h3>Response</h3>
+    <p>
+        The response will be a JSON object containing the predictions. Example:
+    </p>
+    <pre>
+{
+    "random_forest": 1,
+    "logistic_regression": 0
+}
+    </pre>
+    
+    <h2>Conclusion</h2>
+    <p>
+        This API provides a simple and convenient way to predict the classification of mushrooms based on the provided features. You can make a POST request to the <code>/predict</code> endpoint with the appropriate request body to get the predictions.
+    </p>
   
   <h2>Getting Started</h2>
   <p>To get started with MushroomSense, follow these steps:</p>
