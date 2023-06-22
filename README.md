@@ -41,7 +41,26 @@
     <li>Perform chi-square test to identify associations between categorical variables.</li>
     <li>Create visualizations to understand feature relationships.</li>
   </ul>
+  <h3>EDA Images</h3>
   
+  <div style="display: flex; flex-wrap: wrap;">
+    <div style="width: 50%; padding: 10px;">
+      <img src="SS/eda/Pie chart for each column.png" alt="EDA Image 1" style="width: 100%;">
+      <p style="text-align: center;">Pie chart for each column</p>
+    </div>
+    <div style="width: 50%; padding: 10px;">
+      <img src="SS/eda/bargraph.png" alt="EDA Image 2" style="width: 100%;">
+      <p style="text-align: center;">bargraph</p>
+    </div>
+    <div style="width: 50%; padding: 10px;">
+      <img src="SS/eda/chi-square .png" alt="EDA Image 3" style="width: 100%;">
+      <p style="text-align: center;">chi-square </p>
+    </div>
+    <div style="width: 50%; padding: 10px;">
+      <img src="SS/eda/models.png" alt="EDA Image 4" style="width: 100%;">
+      <p style="text-align: center;">models</p>
+    </div>
+  </div>
   <h3>Machine Learning (ML)</h3>
   <ul>
     <li>Split data into training, testing, and validation sets.</li>
