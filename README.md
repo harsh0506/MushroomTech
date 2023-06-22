@@ -88,9 +88,47 @@
   <p>Experience the power of MushroomSense's cutting-edge machine learning model. Input the relevant features of a mushroom, and the application will provide a reliable classification—empowering you to make informed decisions about mushroom consumption.</p>
   
   <!-- Add more features and descriptions as needed -->
+<h3>SS of websites</h3>  
+  <div style="display: flex; flex-wrap: wrap;">
+<div style="width: 33.33%; padding: 10px;">
+    <img src="SS/website/home.png" alt="Home Image" style="width: 100%; max-width: 300px;">
+    <p style="text-align: center;">Home</p>
+  </div>
+  <div style="width: 33.33%; padding: 10px;">
+    <img src="SS/website/Mushrooms.png" alt="Mushrooms Image" style="width: 100%; max-width: 300px;">
+    <p style="text-align: center;">Mushrooms</p>
+  </div>
+  <div style="width: 33.33%; padding: 10px;">
+    <img src="SS/website/know.png" alt="Know Image" style="width: 100%; max-width: 300px;">
+    <p style="text-align: center;">Know</p>
+  </div>
   
-  <h2>Unleash the Fungi Fun!</h2>
-  <p>Immerse yourself in the enchanting world of mushrooms with MushroomSense. Discover, grow, and savor the magic of mushrooms like never before. Unleash your curiosity and embark on a journey of culinary exploration and natural wonders.</p>
+  <div style="width: 33.33%; padding: 10px;">
+    <img src="SS/website/MlPart.png" alt="MIPart Image" style="width: 100%; max-width: 300px;">
+    <p style="text-align: center;">MIPart</p>
+  </div>
+
+  <div style="width: 33.33%; padding: 10px;">
+    <img src="SS/website/Team.png" alt="Team Image" style="width: 100%; max-width: 300px;">
+    <p style="text-align: center;">Team</p>
+  </div>
+  
+  <div style="width: 33.33%; padding: 10px;">
+    <img src="SS/website/Testimonials.png" alt="Testimonials Image" style="width: 100%; max-width: 300px;">
+    <p style="text-align: center;">Testimonials</p>
+  </div>
+   <div style="width: 33.33%; padding: 10px;">
+    <img src="SS/website/contact.png" alt="Contact Image" style="width: 100%; max-width: 300px;">
+    <p style="text-align: center;">Contact</p>
+  </div>
+  
+  <div style="width: 33.33%; padding: 10px;">
+    <img src="SS/website/footer.png" alt="Footer Image" style="width: 100%; max-width: 300px;">
+    <p style="text-align: center;">Footer</p>
+  </div>
+</div>
+
+  
   ## Website URL
 The MushroomSense application is live and can be accessed at: @https://harshmushroomwebsite.netlify.app/
 
